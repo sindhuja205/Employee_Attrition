@@ -3,7 +3,7 @@ pandas
 numpy
 matplotlib
 seaborn
-Scikit.learn
+scikit-learn
 joblib
 altair
 setuptools
